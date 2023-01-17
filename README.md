@@ -1,5 +1,9 @@
 # cot-4500-intro
 
+# This rprogram is an intro assignment that creates and modifies matrixs through numpy
+
+# The program in the end prints out three seperate matrixs
+
 # refer to the requirements.txt file for all needed packages
 
 # navigate to the COT-4500-INTRO file folder in the command line
