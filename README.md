@@ -6,7 +6,7 @@
 
 # run the commmand pip install -r requirements.txt to download all required packages
 
-# navigate to the intro_to_python.py file
+# navigate to the intro_to_python.py file - you can do this through the steps below
 
 # next use the command cd src
 
